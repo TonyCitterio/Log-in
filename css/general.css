@@ -1,0 +1,27 @@
+main {
+  background-color: lightgrey;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.blue {
+  color: rgb(113, 128, 212);
+  padding-left: 0.3rem;
+  cursor: pointer;
+}
+
+.blue2 {
+  color: rgb(113, 128, 212);
+  cursor: pointer;
+}
+
+.pb {
+  padding-bottom: 1rem;
+}
+
+.gray {
+  color: rgb(187, 187, 187);
+}
