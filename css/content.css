@@ -2,7 +2,7 @@
 .content {
   width: 60%;
   height: 700px;
-  background: white;
+  background-color: white;
   display: grid;
 
   grid-template-columns: 30% 70%;

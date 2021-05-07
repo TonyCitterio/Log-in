@@ -1,7 +1,7 @@
 @import "general.css";
 @import "content.css";
 @import "form.css";
-@import "media-query.css";
+@import "media-queries.css";
 
 * {
   margin: 0;
